@@ -1,0 +1,20 @@
+title = "mega.nz"
+title = "www.immyneedscake.com"
+title = "drive.google.com"
+title = "www.deviantart.com"
+title = "disk.yandex.ru"
+title = "yameteouji.wixsite.com"
+title = "www.reddit.com"
+overlay - inner pages"
+direct - direct links"
+redirect - redirect links"
+---
+<a class="button--cta button button--icon button--icon--download" href=".*" target="_blank"><span class="button-text">Download</span></a>
+
+<a class="button--cta button button--icon button--icon--download" data-xf-click="overlay" href=".*" target="_blank"><span class="button-text">Download</span></a>
+
+<a class="button--cta button button--icon button--icon--redirect" data-xf-init="tooltip" href=".*" rel="noopener" target="_blank" title="mega.nz"><span class="button-text">Go to download</span></a>
+<a class="button--cta button button--icon button--icon--redirect" data-xf-init="tooltip" href=".*" rel="noopener" target="_blank" title="www.immyneedscake.com"><span class="button-text">Go to download</span></a>
+<a class="button--cta button button--icon button--icon--redirect" data-xf-init="tooltip" href=".*" rel="noopener" target="_blank" title="www.patreon.com"><span class="button-text">Go to download</span></a>
+<a class="button--cta button button--icon button--icon--redirect" data-xf-init="tooltip" href=".*" rel="noopener" target="_blank" title="www.deviantart.com"><span class="button-text">Go to download</span></a>
+---
